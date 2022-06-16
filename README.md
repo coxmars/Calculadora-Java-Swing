@@ -1,0 +1,2 @@
+# Calculadora-Java-Swing
+Esta es una aplicación de interfaz gráfica sobre una calculadora creada con Java-Swing, a través del entorno de desarrollo integrado (IDE) Netbeans que posee una ayuda de diseño. La aplicación tiene las funcionalidades de una calculadora normal y se agrega otra funcionalidad sobre conversor de divisas, no posee conexión con una API para actualizar los datos en tiempo real es una mejora que se puede hacer, el tipo de cambio se basa en el momento en que se creó la app.
